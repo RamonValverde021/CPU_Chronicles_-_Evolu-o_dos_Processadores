@@ -1,11 +1,5 @@
 @charset "UTF-8";
 
-* {
-    /* Resetar modulos de espaçamentos*/
-    margin: 0px;
-    padding: 0px;
-}
-
 :root {
     --bg: #040610;
     --bg2: #070d1a;
