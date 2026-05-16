@@ -252,7 +252,7 @@ nav {
 .hero-title {
     font-family: 'Orbitron', monospace;
     font-weight: 900;
-    font-size: clamp(2.5rem, 8vw, 6rem);
+    font-size: clamp(2rem, 8vw, 6rem);
     line-height: 1;
     margin-bottom: 1.5rem;
     animation: fadeDown 0.8s 0.2s ease both;
@@ -800,18 +800,10 @@ section {
 .charts-grid {
     max-width: 1100px;
     margin: 0 auto;
-    display: block;
-}
-
-/*
-.charts-grid {
-    max-width: 1100px;
-    margin: 0 auto;
     display: grid;
     grid-template-columns: 1fr 1fr;
     gap: 2rem;
 }
-*/
 
 .chart-card {
     grid-column: span 2;
