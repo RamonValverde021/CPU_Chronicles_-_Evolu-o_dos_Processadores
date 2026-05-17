@@ -15,21 +15,21 @@
     --glow-purple: 0 0 20px rgba(180, 79, 255, 0.4);
 
     /* Variáveis de Texto - Mobile e Padrão (Valores Atuais) */
-    --fs-1: 0.55rem;
-    --fs-2: 0.65rem; 
-    --fs-3: 0.7rem;
-    --fs-4: 0.72rem;
-    --fs-5: 0.75rem;
-    --fs-6: 0.78rem;
-    --fs-7: 0.8rem;
-    --fs-8: 0.85rem;
-    --fs-9: 0.9rem;
-    --fs-10: 1rem;
-    --fs-11: 1.1rem;
-    --fs-12: 1.2rem;
-    --fs-13: 1.5rem;
-    --fs-14: 1.8rem;
-    --fs-15: 2.5rem;
+    --fs-1: 0.67rem;
+    --fs-2: 0.77rem; 
+    --fs-3: 0.82rem;
+    --fs-4: 0.84rem;
+    --fs-5: 0.86rem;
+    --fs-6: 0.9rem;
+    --fs-7: 0.92rem;
+    --fs-8: 0.97rem;
+    --fs-9: 1.02rem;
+    --fs-10: 1.12rem;
+    --fs-11: 1.32rem;
+    --fs-12: 1.32rem;
+    --fs-13: 1.62rem;
+    --fs-14: 1.92rem;
+    --fs-15: 2.62rem;
     --fs-clamp-title: clamp(1.8rem, 4vw, 3rem);
     --fs-clamp-hero: clamp(2vw, 8vw, 6rem);
 }
